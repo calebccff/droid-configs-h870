@@ -1,0 +1,6 @@
+Description: Pattern with packages for h870 configurations
+Name: jolla-configuration-h870
+Requires:
+- patterns-sailfish-device-configuration-h870
+
+Summary: Jolla Configuration h870
